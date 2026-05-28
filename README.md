@@ -19,7 +19,7 @@ W ramach dotychczasowych etapów prac (odpowiednik zrealizowanych kamieni milowy
 * Uruchomiono i w pełni spersonalizowano panel administracyjny Django: wdrożono moduł wyszukiwania sprzętu po numerze inwentarzowym oraz panel filtrów bocznych (filtrowanie według kategorii i statusu urządzenia).
 * Utworzono konto administratora bezpieczeństwa systemu i przetestowano autoryzację dostępu.
 
-## 4. Mój udział w projekcie ([Twoje Imię i Nazwisko])
+## 4. Mój udział w projekcie (Artur Horokhov)
 Jako główny wykonawca komponentów technicznych byłem odpowiedzialny za:
 * Przygotowanie architektury bazy danych oraz kodu źródłowego modeli w Pythonie.
 * Konfigurację logiki biznesowej panelu administracyjnego (wyszukiwanie, mechanizmy filtrowania).
